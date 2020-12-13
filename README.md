@@ -3,6 +3,7 @@ This repo contains the Flutter Dart code and apk Build Release of my HiFiChat Ch
 
 # Use APK   
 Download the Apk from this git repo, then install and use it
+    
   
   
 # For further development  
@@ -36,6 +37,6 @@ Now App is ready to run -
 As this app is using firestore, so for full functionality of the app you have to connect this with firestore  
   
 # Links :-  
-YouTube Video :- Coming Soon
-Article :- Coming Soon
-Post :- Coming Soon
+YouTube Video :- Coming Soon  
+Article :- Coming Soon  
+Post :- Coming Soon  
