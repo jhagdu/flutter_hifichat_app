@@ -39,4 +39,4 @@ As this app is using firestore, so for full functionality of the app you have to
 # Links :-  
 YouTube Video :- https://youtu.be/h_X5kE0u6Nw  
 Article :- https://amanjhagrolia.medium.com/hifichat-a-flutter-chatting-app-5f6c4445e11c  
-Post :- Coming Soon  
+Post :- https://www.linkedin.com/posts/amanjhagrolia143_hifichata-flutter-chatting-app-activity-6744848875548413952-nye5  
